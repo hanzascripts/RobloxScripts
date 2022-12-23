@@ -1,14 +1,14 @@
-<h4> Oii! eu me chamo Sam e tenho 21 anos </h4>
+<h4>𝟵 𝘆𝗲𝗮𝗿𝘀 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h4>
 Sou dev front end, desiner e estudante de segurança da informação<br>
 Criador de conteudo e atualmente estudando python e lua ☾ <br><br>
 Movido pela curiosidade e intuição, motivado a sempre aprender mais... <br><br>
--> email de contato: samdeoliveira@protonmail.com <br>
+-> email de contato: haanza@protonmail.com <br>
 -> meus certificados: https://drive.google.com/drive/u/1/folders/1VaX81isOgJCSyWpA-RI_qjnLpInvSt1q
 <br><br>
 <div>
   <a href="https://github.com/SamDeOliveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDeOliveira&layout=compact&langs_count=7&theme=tokyonight"/> <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzascriptps&layout=compact&langs_count=7&theme=tokyonight"/> <br>
  <a href="https://www.youtube.com/@r1oasuka" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/melo_0liveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     
