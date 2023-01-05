@@ -1,0 +1,6 @@
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace["IVXIIL"].Head.CFrame
+while wait(0.055) do
+local A_1 = 99999.25
+local Event = game:GetService("ReplicatedStorage").yoruskill
+Event:FireServer(A_1)
+end
