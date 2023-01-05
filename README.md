@@ -1,10 +1,9 @@
-<h4>𝟵 𝘆𝗲𝗮𝗿𝘀 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h4>
 Languages i know:<br>
 Python & Luau
 <br><br>
 <div>
   <a href="https://github.com/hanzascripts">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hanzascripts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=hanzascripts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzascripts&layout=compact&langs_count=7&theme=tokyonight"/> <br>
  <a href="https://www.youtube.com/@HanzaScripts" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/HansaKun/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
