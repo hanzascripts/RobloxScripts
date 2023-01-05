@@ -12,7 +12,7 @@ Python & Luau
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/45857590/149463930-a5cace34-a309-419a-b081-d07e686f8ef7.png">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
  <img align="right" width="70" height="70" style="border-radius:30px;" src="https://media.tenor.com/qOo9twXki7MAAAAC/jojo-roblox.gif">
 
 <!---
